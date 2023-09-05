@@ -1,0 +1,16 @@
+.GB1600032 :1 ;Crystals 16.000MHz 30pF 30ppm -20 +70
+GB1600032
+*STM Y
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN GB1600032
+~!Mouser Part Number (729-GB1600032)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/GB1600032?qs=%252BkPSyx%252BVsdXQGx7yW5QABw%3D%3D)
+~!Manufacturer_Name (Diodes Inc.)
+~!Manufacturer_Part_Number (GB1600032)
+~!Link Datasheet (https://www.diodes.com/assets/Datasheets/GB_GG.pdf)
+~!Height (3.5mm)
+~!3D_Model (GB1600032)
+GB1600032
+1.1!U 2.1!U 

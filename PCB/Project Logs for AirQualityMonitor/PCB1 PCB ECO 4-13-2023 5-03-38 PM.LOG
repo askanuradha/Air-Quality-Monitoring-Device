@@ -1,0 +1,46 @@
+Added Component: Designator=C1()
+Added Component: Designator=C2()
+Added Component: Designator=C3()
+Added Component: Designator=H1()
+Added Component: Designator=R1()
+Added Component: Designator=U1(28P3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "ATmega48A/48PA/88A/88PA/168A/168PA/328/328P Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/8271.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ATmega48A/48PA/88A/88PA/168A/168PA/328/328P Summary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/8271S.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revD, May-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "28-lead (0.300"/7.62mm Wide) Plastic Dual Inline Package (PDIP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "28P3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Sep-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionNote"; Value = "DatasheetVersion updated. URLs added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "68T2932"; VariantName = "[No Variations]"
+Added Component: Designator=X1()
+Added Pin To Net: NetName=+5 Pin=U1-7
+Added Pin To Net: NetName=+5 Pin=U1-20
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_1 Pin=U1-9
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-10
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetH1_1 Pin=U1-28
+Added Net: Name=NetH1_1
+Added Pin To Net: NetName=NetH1_2 Pin=U1-27
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetH1_3 Pin=U1-23
+Added Net: Name=NetH1_3
+Added Pin To Net: NetName=NetH1_4 Pin=U1-4
+Added Net: Name=NetH1_4
+Added Pin To Net: NetName=NetH1_5 Pin=U1-24
+Added Net: Name=NetH1_5
+Added Pin To Net: NetName=NetH1_6 Pin=U1-5
+Added Net: Name=NetH1_6
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Net: Name=NetR1_1
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

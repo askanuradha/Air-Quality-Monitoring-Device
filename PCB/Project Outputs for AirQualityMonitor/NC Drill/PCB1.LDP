@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\Semester 4\Electronic design realization\Project PCB\AirQualityMonitor\PCB1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=pcb1-squareholes.txt|DrillLayers=gtl,gbl

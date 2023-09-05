@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=U1 Old Footprint=28P3 New Footprint=28P3
+Added Component: Designator=P1(POWER)
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Member To Class: ClassName=Sheet1 Member=Component P1 5V

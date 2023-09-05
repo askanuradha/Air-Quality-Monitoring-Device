@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GB1600032'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Inc.", "GB1600032" (!) = "", "GB1600032", "Other", "729-GB1600032", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/GB1600032?qs=%252BkPSyx%252BVsdXQGx7yW5QABw%3D%3D", "Crystals 16.000MHz 30pF 30ppm -20 +70", "https://www.diodes.com/assets/Datasheets/GB_GG.pdf", "3.5 mm"
+END_PART
+
+END.

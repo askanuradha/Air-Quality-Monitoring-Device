@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations
+E:\Semester 4\Electronic design realization\Project PCB\AirQualityMonitor\Project Outputs for AirQualityMonitor\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/05/23
+Time:       20:01
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer    Footprint Center-X(mil) Center-Y(mil) Rotation Description                                                                                                  
+""         DISPLAY      TopLayer DISPLAY   1910.000      4310.000      90       ""                                                                                                           
+R2         150          TopLayer RESI      2085.000      3740.335      270      "Res 150 Ohm 10% 1.2W Axial"                                                                                 
+""         ""           TopLayer MQ135     1915.000      4735.000      90       ""                                                                                                           
+""         DUSTS        TopLayer DUSTS     2355.000      4575.000      90       ""                                                                                                           
+""         ""           TopLayer DHT       2135.000      4730.000      90       ""                                                                                                           
+C4         22uF         TopLayer 10UF      1265.000      4475.000      0        "Cap Aluminum 22uF 450V 20% (12.5 X 20mm) Radial Aluminum Cylindrical Can 5mm 280mA 10000 hr 105∞C Bulk"     
+P1         9V           TopLayer POWER     1230.000      3560.000      180      ""                                                                                                           
+X1         16MHz        TopLayer GB1600032 1235.000      4023.937      90       "Crystal 16MHz ±30ppm (Tol) ±30ppm (Stability) 30pF FUND 40Ohm 2-Pin Thru-Hole Bag"                          
+U2         L7805CV      TopLayer TO220     2315.000      3695.000      90       "Positive Voltage Regulator, 5V, 3-Pin TO-220"                                                               
+U1         ATmega328-PU TopLayer 28P3      1585.000      4165.000      0        "8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 28-pin PDIP, Industrial Grade (-40∞C to 85∞C)" 
+R1         10k          TopLayer RESI      1905.000      3740.335      270      "Res Carbon Film 10K Ohm 5% 0.25W(1/4W) -500ppm/Å? to 0pp"                                                   
+C3         22pF         TopLayer 22PF      1165.000      4776.575      90       "Capacitor; Mica; Cap 22pF; Tol 5%; Radial Miniature DIPped; Vol-Rtg 300VDC; LS 3.0mm"                       
+C2         22pF         TopLayer 22PF      1340.000      4786.575      90       "Capacitor; Mica; Cap 22pF; Tol 5%; Radial Miniature DIPped; Vol-Rtg 300VDC; LS 3.0mm"                       
+C1         10uF         TopLayer 10UF      2285.000      4125.000      0        "BXC Series 450 V 10 µF 10x20mm Aluminum Electrolytic Capacitor"                                             

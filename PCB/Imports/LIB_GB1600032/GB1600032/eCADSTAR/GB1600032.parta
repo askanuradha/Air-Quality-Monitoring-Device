@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1561652"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-12-08-05:29:13)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "GB1600032")
+)
+
+
+(pinAssign "ECS_1561652"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-12-08-05:29:13)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1561652")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "GB1600032")
+)
+
+
+(part "GB1600032"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-12-08-05:29:13)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "GB1600032")
+    (pinAssignRef "ECS_1561652")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Y")
+    (property "description" "Crystals 16.000MHz 30pF 30ppm -20 +70")
+    (property "Mouser_Part_Number" "729-GB1600032")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/GB1600032?qs=%252BkPSyx%252BVsdXQGx7yW5QABw%3D%3D")
+    (property "Manufacturer_Name" "Diodes Inc.")
+    (property "Manufacturer_Part_Number" "GB1600032")
+    (property "Datasheet_Link" "https://www.diodes.com/assets/Datasheets/GB_GG.pdf")
+    (property "compAreaTopHeight" 3.5)
+)
+
+

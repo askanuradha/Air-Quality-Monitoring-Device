@@ -1,0 +1,11 @@
+Added Component: Designator=DISPLAY(DISPLAY)
+Added Pin To Net: NetName=GND Pin=DISPLAY-1
+Added Pin To Net: NetName=+5 Pin=DISPLAY-2
+Added Pin To Net: NetName=NetDISPLAY_3 Pin=DISPLAY-3
+Added Pin To Net: NetName=NetDISPLAY_3 Pin=U1-28
+Added Net: Name=NetDISPLAY_3
+Added Pin To Net: NetName=NetDISPLAY_4 Pin=DISPLAY-4
+Added Pin To Net: NetName=NetDISPLAY_4 Pin=U1-27
+Added Net: Name=NetDISPLAY_4
+Added Member To Class: ClassName=Sheet1 Member=Component DISPLAY
+Added Room: Name=Sheet1

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GB1600032
+D Crystals 16.000MHz 30pF 30ppm -20 +70
+K
+F https://www.diodes.com/assets/Datasheets/GB_GG.pdf
+$ENDCMP
+#
+#End Doc Library

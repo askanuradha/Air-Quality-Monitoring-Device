@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=+5 Pin=C1-2
+Removed Pin From Net: NetName=+5 Pin=P2-1
+Removed Pin From Net: NetName=+5 Pin=P2-2
+Removed Pin From Net: NetName=+5 Pin=P2-3
+Removed Pin From Net: NetName=+5 Pin=P2-4
+Removed Pin From Net: NetName=+5 Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=GND Pin=P3-3
+Removed Pin From Net: NetName=GND Pin=P3-4
+Removed Pin From Net: NetName=GND Pin=P3-5
+Removed Member From Class: ClassName=Sheet1 Member=H1
+Removed Member From Class: ClassName=Sheet1 Member=P2
+Removed Member From Class: ClassName=Sheet1 Member=P3
+Change Component Comment : Designator=P1 Old Comment=5V New Comment=9V
+Added Component: Designator=C4(10uF)
+Add component (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.rubycon.co.jp/en/catalog/e_pdfs/aluminum/Radial_Lead_Alumi_Eng.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.rubycon.co.jp/en/catalog/e_pdfs/aluminum/Radial_Lead_Alumi_Eng.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1910941.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1910941.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "12.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.866inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.197inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rubycon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "450BXW22MEFR12.5X20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.59, 10=1.253, 50=1.0856, 100=0.9395, 500=0.70986, 1000=0.62635, 2500=0.58459, 5000=0.56371 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "260mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "BXW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "99026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1189-2936-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "450V"; VariantName = "[No Variations]"
+Added Component: Designator=DHT(DHT)
+Added Component: Designator=DUSTS(DUSTS)
+Added Component: Designator=MQ135(MQ135)
+Added Component: Designator=R2(RESI)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ohmite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "OC1K151E-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=4.62, 10=4.19, 50=3.56, 100=3.12, 1000=2.66, 10000=2.66 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "588-OC1K151E-TR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=+5 Pin=DHT-1
+Added Pin To Net: NetName=GND Pin=DHT-3
+Added Pin To Net: NetName=GND Pin=DUSTS-2
+Added Pin To Net: NetName=GND Pin=DUSTS-4
+Added Pin To Net: NetName=+5 Pin=DUSTS-6
+Added Pin To Net: NetName=GND Pin=MQ135-2
+Added Pin To Net: NetName=+5 Pin=MQ135-3
+Added Pin To Net: NetName=+5 Pin=R2-1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=DUSTS-1
+Added Pin To Net: NetName=NetC4_1 Pin=R2-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetDHT_2 Pin=DHT-2
+Added Pin To Net: NetName=NetDHT_2 Pin=U1-4
+Added Net: Name=NetDHT_2
+Added Pin To Net: NetName=NetDUSTS_3 Pin=DUSTS-3
+Added Pin To Net: NetName=NetDUSTS_3 Pin=U1-13
+Added Net: Name=NetDUSTS_3
+Added Pin To Net: NetName=NetDUSTS_5 Pin=DUSTS-5
+Added Pin To Net: NetName=NetDUSTS_5 Pin=U1-24
+Added Net: Name=NetDUSTS_5
+Added Pin To Net: NetName=NetMQ135_1 Pin=MQ135-1
+Added Pin To Net: NetName=NetMQ135_1 Pin=U1-23
+Added Net: Name=NetMQ135_1
+Added Member To Class: ClassName=Sheet1 Member=Component C4 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component DHT
+Added Member To Class: ClassName=Sheet1 Member=Component DUSTS
+Added Member To Class: ClassName=Sheet1 Member=Component MQ135
+Added Member To Class: ClassName=Sheet1 Member=Component R2 150
+Added Room: Name=Sheet1
