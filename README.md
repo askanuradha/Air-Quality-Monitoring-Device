@@ -1,4 +1,6 @@
 # Air Quality Monitoring Device
+<div align="center"><img src="https://github.com/askanuradha/Air-Quality-Monitoring-Device/blob/main/Images/device.jpg" alt="Device picture" width="450"></div>
+
 ## Overview
 This individual project relate to the EN2160-Electronic Design Realization module in semester 4. The device aims to ensure the accurate measurement of key air quality parameters, including carbon dioxide (CO2) levels, temperature, and humidity. The device contains a display and it shows the air quality, humidity percentage, and temperature. The device is easy to operate, no need to calibrate after starting up, it can work and detect measurements automatically.
 ## Product Details
@@ -29,15 +31,23 @@ The air quality monitoring system using various sensors and an Atmega328P microc
 * **Optical Dust Sensor :** Detects particulate matter (PM) levels in the air and offers insights into air cleanliness and pollution.
 * **Step-Up Converter :** Boosts voltage from a TP4056 output to power the system components and ensures stable voltage supply.
 * **TP4056 Module :** Manages the charging and protection of the Li-ion battery and provides safe and efficient energy storage.
+<div align="center"><img src="https://github.com/askanuradha/Air-Quality-Monitoring-Device/blob/main/Images/block_diagram.png" alt="Block Diagram" width="550"></div>
 
 ### Circuit Design
 The following Schematic diagram consists of the circuit of the PCB and note that it does not include the modules which I used in the project. (i.e. Not included the Step up boost converter, TP4056 Module, Li-ion Battery)
+<div align="center"><img src="https://github.com/askanuradha/Air-Quality-Monitoring-Device/blob/main/Images/schematic.png" alt="Block Diagram" width="550"></div>
 
 ### PCB Design
 The PCB was designed using Altium Designer Software, and it is a two-layer PCB configuration.
+<div align="center"><img src="https://github.com/askanuradha/Air-Quality-Monitoring-Device/blob/main/Images/pcb_3d.png" alt="Block Diagram" width="550"></div>
 
 ### Enclosure Design
 The enclosure was designed using SolidWorks software and consists of two parts. These parts are securely connected through the use of nuts.
+<div align="center">
+  <img src="https://github.com/askanuradha/Air-Quality-Monitoring-Device/blob/main/Images/Enclosure_3d.png" alt="Block Diagram" height="350" style="padding-right: 50px;">
+  
+  <img src="https://github.com/askanuradha/Air-Quality-Monitoring-Device/blob/main/Images/Exploded_view.png" alt="Block Diagram" height="350">
+</div>
 
 ## Validation
 Verified that the sensors (MQ135, DHT11, Optical Dust Sensor) provide accurate data readingsand confirmed that the microcontroller (Atmega328P) correctly processes and displays air quality parameters. Checked that the power management components (Step-Up Converter, TP4056 Module) operate efficiently and safely.
